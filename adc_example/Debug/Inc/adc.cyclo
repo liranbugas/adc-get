@@ -1,0 +1,5 @@
+adc.c:26:6:adc_ini	2
+adc.c:34:6:adc_start	1
+adc.c:40:10:adc_get	1
+adc.c:46:6:adc_stop	1
+adc.c:51:6:adc_check	1

@@ -1,0 +1,4 @@
+../Inc/timer.c:23:6:timer_ini	4	static
+../Inc/timer.c:32:6:timer_start	4	static
+../Inc/timer.c:37:6:timer_stop	4	static
+../Inc/timer.c:42:6:timer_check	16	static

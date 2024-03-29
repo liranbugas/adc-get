@@ -1,0 +1,4 @@
+timer.c:23:6:timer_ini	1
+timer.c:32:6:timer_start	1
+timer.c:37:6:timer_stop	1
+timer.c:42:6:timer_check	2
